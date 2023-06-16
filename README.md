@@ -1,2 +1,2 @@
 # Machine-learning-Projects
-#These codes contain some of the basics machine learning projects.
+#These codes contain some of the basics machine learning tuning.
